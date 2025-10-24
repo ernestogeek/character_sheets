@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Character Sheets
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It observes the character and hpw developers respond to the alerts and goals.
 
 ## Available Scripts
 
